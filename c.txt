@@ -1,1 +1,2 @@
 bu değişiklikleri dev branch inde yaptım
+yeni değişiklkler local
