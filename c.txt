@@ -1,2 +1,4 @@
-bu değişiklikleri dev branch inde yaptım
+bu değişiklikleri branch inde yaptım
 yeni değişiklkler local
+üçüncü satır
+dördüncü satır
